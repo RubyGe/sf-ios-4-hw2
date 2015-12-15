@@ -5,12 +5,16 @@
 
 // 1. Write a variable to hold the name of a dog and
 //    set its value to a dog's name
+var dogName = "Lucky"
 
 // 2. Write a variable to hold the duration of a movie
 //    in minutes and set its value
+var durationOfAvatar = 162
 
 // 3. Write a variable to hold whether it is daytime
 //    and set it to reflect that it is nighttime
+
+var isDaytime = false
 
 // 4. Write a constant to store PI (3.14159)
 
